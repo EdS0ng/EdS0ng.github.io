@@ -1,11 +1,7 @@
 ---
 layout: page
-title: About
+title: About This Blog
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+&nbsp;&nbsp;&nbsp;&nbsp;Welcome to my blog! Here, I will talk about my journey to become a developer and share any cool coding related information that I come across. You can expect posts on Javascript, Node.js, Jquery, MongoDB, as well as any other Javascript related frameworks. In addition, I may post information about Java and mobile development.Lastly, I may post about my experience in a coding bootcamp. If you're interested in any of these topics, read on. Thanks for visiting!
