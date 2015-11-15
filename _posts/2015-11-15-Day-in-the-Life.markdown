@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Life at a Coding Bootcamp"
-date:   2015-11-1 16:03:45
+date:   2015-11-15 15:03:45
 categories: jekyll update
 ---
 &nbsp;&nbsp;&nbsp;&nbsp; Something I observed as I was looking into coding bootcamps earlier this year was the lack of information on them on the internet. As I am currently attending one, I figured I would write about my experiences so far in an attempt to shed more light on this subject. Keep in mind that this is just to share some of my personal experience and should not be used as a replacement for your own research. 
