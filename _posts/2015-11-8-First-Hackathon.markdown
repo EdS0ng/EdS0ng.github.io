@@ -2,7 +2,6 @@
 layout: post
 title:  "First Hackathon"
 date:   2015-11-1 16:03:45
-categories: jekyll update
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;Woo first hackathon! This last Friday and Saturday I was at the AT&T Internet of Things hackathon over in Redwood City, California. As it was my first hackathon, I was naturally extremely hyped up over it. After being through it, I can honestly say it was the best hackathon I have ever been to (because it was the only one I've been to so far). In all seriousness though, I had loads of fun and learned a lot. 
 

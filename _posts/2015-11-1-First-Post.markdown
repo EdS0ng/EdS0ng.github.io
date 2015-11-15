@@ -2,7 +2,6 @@
 layout: post
 title:  "My First Post!"
 date:   2015-11-1 16:03:45
-categories: jekyll update
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;Hi and welcome to my blog! As this is my first post, I just want to take the time to introduce myself and give some background. I recently finished my undergrad degree in Chemical Engineering earlier this year. I did not really enjoy my major, but decided to finish it anyways as switching majors would have cost me an extra year in college, and I just couldn't afford it. Thus, after graduation, I had a choice to make. I had to decide if I would go into chemical engineering and maybe switch out later, or just try and switch now. I knew I would much rather code for a living than work as a chemical engineer, and after talking to my friends and family, I decided that there was no reason for me to waste a few years doing something I did not enjoy. This brings me to now.
 
