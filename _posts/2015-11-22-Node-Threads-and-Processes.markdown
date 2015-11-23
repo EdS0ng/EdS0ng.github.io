@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Node.js Processes and Threads"
-date:   2015-11-22 16:03:45
+date:   2015-11-22 13:00:00
 ---
 &nbsp;&nbsp;&nbsp;&nbsp; Yesterday, I dug into a topic about Node that I feel isn't too well documented. That topic is how Node handles processes and threads. I dug into this topic partly due to curiosity, as I dislike using tools that I don't understand, but also as a necessity as I was working on something that required using the core child process module provided with Node. The information I found was quite interesting and I ended up spending a good amount of time learning about processes and threads. 
 
